@@ -31,13 +31,3 @@ body {
 .square:hover {
   transition-duration: 0s;
 }
-.div{
-    background-color: rgb(67, 67, 211);
-    background-color: rgb(153, 89, 212);
-    background-color: rgb(206, 131, 243);
-    background-color: rgb(235, 140, 190);
-    background-color: rgb(219, 43, 78);
-    background-color: rgb(251, 125, 34);
-    background-color: rgb(255, 232, 101);
-    background-color: rgb(196, 255, 138);
-}
